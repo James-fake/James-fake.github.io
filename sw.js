@@ -1,4 +1,4 @@
-const CACHE_NAME = 'markcraft-blog-mvzgg8nyiezj';
+const CACHE_NAME = 'markcraft-blog-mvzhcu6qwmwt';
 const ASSETS = [
     'assets/og/markcraft-用户手册.svg',
     'assets/og/markdown-入门教程.svg',
@@ -10,12 +10,6 @@ const ASSETS = [
     'index.html',
     'archive.html',
     'tags.html',
-    'rss.xml',
-    'sitemap.xml',
-    'robots.txt',
-    'search-index.json',
-    'search.html',
-    '404.html',
     'about.html',
     'posts/markcraft-用户手册/index.html',
     'posts/markdown-入门教程/index.html',
@@ -24,6 +18,12 @@ const ASSETS = [
     'posts/python/index.html',
     'posts/javascript/index.html',
     'posts/新文件/index.html',
+    '404.html',
+    'rss.xml',
+    'sitemap.xml',
+    'robots.txt',
+    'search-index.json',
+    'search.html',
     'manifest.json'
 ];
 
