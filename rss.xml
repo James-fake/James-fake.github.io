@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Blog</title>
+    <link>https://example.com</link>
+    <description>用 MarkCraft 构建的个人博客，记录设计与思考。</description>
+    <language>zh-CN</language>
+    <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>MarkCraft — 用户手册</title>
+      <link>https://example.com/posts/markcraft-用户手册/</link>
+      <description>MarkCraft — 用户手册</description>
+      <author>作者</author>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <guid>https://example.com/posts/markcraft-用户手册/</guid>
+    </item>
+    <item>
+      <title>Markdown 入门教程</title>
+      <link>https://example.com/posts/markdown-入门教程/</link>
+      <description>Markdown 入门教程</description>
+      <author>作者</author>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <guid>https://example.com/posts/markdown-入门教程/</guid>
+    </item>
+    <item>
+      <title>知识链接体系指南</title>
+      <link>https://example.com/posts/知识链接体系指南/</link>
+      <description>MarkCraft 的知识链接体系让您可以在笔记之间建立联系，将零散的知识编织成网络。本指南将带您了解并实践所有知识链接功能。</description>
+      <author>作者</author>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <guid>https://example.com/posts/知识链接体系指南/</guid>
+    </item>
+    <item>
+      <title>编程语言</title>
+      <link>https://example.com/posts/编程语言/</link>
+      <description>链接 Python、JavaScript</description>
+      <author>作者</author>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <guid>https://example.com/posts/编程语言/</guid>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://example.com/posts/python/</link>
+      <description>链接 编程语言、JavaScript</description>
+      <author>作者</author>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <guid>https://example.com/posts/python/</guid>
+    </item>
+    <item>
+      <title>JavaScript</title>
+      <link>https://example.com/posts/javascript/</link>
+      <description>链接 编程语言、JavaScript</description>
+      <author>作者</author>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <guid>https://example.com/posts/javascript/</guid>
+    </item>
+    <item>
+      <title>新文件</title>
+      <link>https://example.com/posts/新文件/</link>
+      <description>链接 编程语言、JavaScript</description>
+      <author>作者</author>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <guid>https://example.com/posts/新文件/</guid>
+    </item>
+  </channel>
+</rss>

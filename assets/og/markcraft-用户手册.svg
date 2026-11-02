@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="MarkCraft — 用户手册">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="0" width="12" height="630" fill="#d97706"/>
+  <text font-size="64" font-weight="700" fill="#f8fafc" font-family="'PingFang SC','Microsoft YaHei',sans-serif"><tspan x="80" y="255">MarkCraft — 用户</tspan><tspan x="80" y="339">手册</tspan></text>
+  <text x="80" y="510" font-size="30" fill="#cbd5f5" font-family="'PingFang SC','Microsoft YaHei',sans-serif">MarkCraft — 用户手册</text>
+  <text x="80" y="566" font-size="26" fill="#94a3b8" font-family="'PingFang SC','Microsoft YaHei',sans-serif">My Blog</text>
+</svg>
