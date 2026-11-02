@@ -1,4 +1,4 @@
-const CACHE_NAME = 'markcraft-blog-mvzht76j9sav';
+const CACHE_NAME = 'markcraft-blog-mvzhvzm04s4n';
 const ASSETS = [
     'assets/og/markcraft-用户手册.svg',
     'assets/og/markdown-入门教程.svg',
