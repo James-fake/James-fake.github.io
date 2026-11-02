@@ -950,7 +950,7 @@ document.addEventListener('DOMContentLoaded',function(){
     .admonition.details .admonition-title{cursor:pointer;color:var(--accent,#e74c3c)}
     .admonition.details .admonition-content{padding-top:8px}
   </style>
-  <link rel="manifest" href="/manifest.json">
+  <link rel="manifest" href="manifest.json">
 <meta name="theme-color" content="#e74c3c">
 </head>
 <body>
@@ -992,7 +992,7 @@ document.addEventListener('DOMContentLoaded',function(){
   <script>
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', function() {
-    navigator.serviceWorker.register('/sw.js').catch(function(err) {
+    navigator.serviceWorker.register('sw.js').catch(function(err) {
       console.log('SW registration failed: ', err);
     });
   });
