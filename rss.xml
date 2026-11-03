@@ -11,7 +11,7 @@
       <link>https://example.com/posts/markcraft-用户手册/</link>
       <description>MarkCraft — 用户手册</description>
       <author>作者</author>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
       <guid>https://example.com/posts/markcraft-用户手册/</guid>
     </item>
     <item>
@@ -19,7 +19,7 @@
       <link>https://example.com/posts/markdown-入门教程/</link>
       <description>Markdown 入门教程</description>
       <author>作者</author>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
       <guid>https://example.com/posts/markdown-入门教程/</guid>
     </item>
     <item>
@@ -27,7 +27,7 @@
       <link>https://example.com/posts/知识链接体系指南/</link>
       <description>MarkCraft 的知识链接体系让您可以在笔记之间建立联系，将零散的知识编织成网络。本指南将带您了解并实践所有知识链接功能。</description>
       <author>作者</author>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
       <guid>https://example.com/posts/知识链接体系指南/</guid>
     </item>
     <item>
@@ -35,7 +35,7 @@
       <link>https://example.com/posts/编程语言/</link>
       <description>链接 Python、JavaScript</description>
       <author>作者</author>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
       <guid>https://example.com/posts/编程语言/</guid>
     </item>
     <item>
@@ -43,7 +43,7 @@
       <link>https://example.com/posts/python/</link>
       <description>链接 编程语言、JavaScript</description>
       <author>作者</author>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
       <guid>https://example.com/posts/python/</guid>
     </item>
     <item>
@@ -51,7 +51,7 @@
       <link>https://example.com/posts/javascript/</link>
       <description>链接 编程语言、JavaScript</description>
       <author>作者</author>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
       <guid>https://example.com/posts/javascript/</guid>
     </item>
     <item>
@@ -59,7 +59,7 @@
       <link>https://example.com/posts/新文件/</link>
       <description>链接 编程语言、JavaScript</description>
       <author>作者</author>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
       <guid>https://example.com/posts/新文件/</guid>
     </item>
   </channel>
